@@ -61,7 +61,7 @@ html{
      background-size: cover;
      background-repeat: no-repeat;
      background-position: center;
-     background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)) , url(../img/image_1.jpg);
+     background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)) , url(./image_1.jpg);
      color: aliceblue;
      text-align: center;
 
@@ -650,4 +650,5 @@ margin-bottom: 30px;
 .footer_bot a:hover{
     color: #fff;
 }
+
 /* end footer  */
